@@ -1,3 +1,22 @@
+# =========================
+# Configuraciones de IDEs del grupo
+# =========================
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+.settings/
+.classpath
+.project
+
 # Compiled class file
 *.class
 
