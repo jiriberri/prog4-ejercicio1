@@ -10,6 +10,13 @@ public class principal {
 		p1.setNombre("Juan");
 		System.out.println(p1.toString());
 
+	   
+	   Empleado p2=new Empleado("Junior"); 
+	   
+	   
+	   System.out.println(p2.toString());
+		
+		
 	}
 
 }
